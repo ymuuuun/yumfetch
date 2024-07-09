@@ -1,6 +1,5 @@
 import platform
 import psutil
-import subprocess
 
 class Specs:
     def __init__(self) -> None:
