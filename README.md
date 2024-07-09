@@ -13,7 +13,9 @@ You can change the order the specs should be shown in aswell.
 In AsciiArt, You should add txt files containing ascii art.
 Make a txt file with any name, go to the config file and change the ascii value to the name of the txt file.
 
-# What you need
+# Getting the packages
+
+You may not have the packages required for this to run correctly, if your program wont open, open the terminal in the main folder and run this command :
 
 ``code``
 
