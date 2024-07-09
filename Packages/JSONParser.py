@@ -10,5 +10,3 @@ def parseConfigFile() -> dict:
             return Parsed
     except Exception as err:
         raise Exception(err)
-    
-# parseConfigFile()
