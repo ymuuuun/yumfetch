@@ -17,7 +17,7 @@ Make a txt file with any name, go to the config file and change the ascii value 
 
 You may not have the packages required for this to run correctly, if your program wont open, open the terminal in the main folder and run this command :
 
-``code``
+``pip install -r requirements.txt``
 
 # Screenshots
 
