@@ -10,7 +10,7 @@ The Config file contains settings changing certain pc specs being shown, and the
 To remove a certain computer spec from being shown, simply change the true from false from the spec you want removed.
 You can change the order the specs should be shown in aswell.
 
-In AsciiArt, You should add txt files containing ascii art.
+In AsciiArt, It contains ascii art to display on the fetch.
 Make a txt file with any name, go to the config file and change the ascii value to the name of the txt file.
 
 # Getting the packages
