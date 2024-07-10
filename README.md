@@ -1,6 +1,6 @@
 # yumfetch
 
-An open-source python neofetch imposter for displaying computer specs in fashion.
+An open-source, lightweight python neofetch imposter for displaying computer specs in fashion.
 Very unfinished and will be improved.
 
 # Config Usage
